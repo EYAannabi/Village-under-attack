@@ -78,7 +78,5 @@ Après compilation, lancez le jeu avec :
 
 ## Aperçu du jeu
 
-![image.png](image.png)
-
-![image.png](image%201.png)![image 1](https://github.com/user-attachments/assets/15fe89de-13a4-4291-a464-d35913119cf1)
+![image 1](https://github.com/user-attachments/assets/15fe89de-13a4-4291-a464-d35913119cf1)
 ![image](https://github.com/user-attachments/assets/3731e1f1-9189-4d66-a447-4f3a6603550d)
